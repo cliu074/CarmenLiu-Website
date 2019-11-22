@@ -1,6 +1,5 @@
 
-# Welcome to LearnCS8 Resume Website
-
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+# Welcome to Carmen's Resume. 
+I have created this resume that incorporates a hint of my work history and experiences. 
+This is an overall view of who I am and what I emcompass to build towards my goal to become a clinical psychologist. 
+As a current undergraduate student, this resume will help me further my professional career in the near future. 
